@@ -1,4 +1,4 @@
-# Changelog for package gpt_node
+# Changelog for package hobot_llm
 
 v0.1.0 (2023-08-17)
 ------------------
